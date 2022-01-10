@@ -49,24 +49,24 @@ npm start
 
 nodejs-auth <br>
 ├── assets <br>
-│ --- └── css <br>
-│ -------- └── layout.css <br>
+│ --- ├── css <br>
+│ -------- ├── layout.css <br>
 ├── config <br>
 │ --- ├── middleware.js <br>
 │ --- ├── mongoose.js <br>
-│ --- └── passport-google-oauth2-strategy.js <br>
+│ --- ├── passport-google-oauth2-strategy.js <br>
 │ --- ├── passport-local-strategy.js <br>
 ├── controllers <br>
-│ --- └──home.js <br>
-│ --- └──user.js <br>
+│ --- ├── home.js <br>
+│ --- ├── user.js <br>
 ├── models <br>
-│ --- └── user.js <br>
+│ --- ├── user.js <br>
 ├── routes <br>
-│ --- └── index.js <br>
-│ --- └──home.js <br>
+│ --- ├── index.js <br>
+│ --- ├── home.js <br>
 ├── views <br>
 │ --- ├── partials
-│ -------- └── messages.ejs <br>
+│ -------- ├── messages.ejs <br>
 │ --- ├── dashboard.ejs <br>
 │ --- ├── home.ejs <br>
 │ --- ├── layout.ejs <br>
