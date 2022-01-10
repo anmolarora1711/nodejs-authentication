@@ -65,7 +65,7 @@ nodejs-auth <br>
 │ --- ├── index.js <br>
 │ --- ├── home.js <br>
 ├── views <br>
-│ --- ├── partials
+│ --- ├── partials <br>
 │ -------- ├── messages.ejs <br>
 │ --- ├── dashboard.ejs <br>
 │ --- ├── home.ejs <br>
@@ -73,7 +73,7 @@ nodejs-auth <br>
 │ --- ├── login.ejs <br>
 │ --- ├── register.ejs <br>
 ├── .gitignore <br>
-├── index.js
+├── index.js <br>
 ├── package-lock.json <br>
 ├── package.json <br>
 ├── README.md <br>
