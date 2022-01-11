@@ -38,7 +38,7 @@ cd nodejs-authentication
 npm install
 ```
 
-- Add all the constants' values used in this app in a file named '.env'
+- Add all the constants' values used in this app in a file named '.env' and place that file in root folder
 
 - Build and run the project
 ```
